@@ -10,8 +10,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@freakycoder/react-native-bounceable": "^1.0.3",
+    "@sayem314/react-native-keep-awake": "^1.2.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-progress": "^5.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
